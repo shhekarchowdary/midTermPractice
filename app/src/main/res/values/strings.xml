@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">midTermPractice</string>
+    <string name="appName">Fee Estimator</string>
+    <string name="qualification">Qualification</string>
+    <string name="course">Course</string>
+    <string name="building">buildingO</string>
+    <string name="option1">Days Scholar</string>
+    <string name="option2">Hostel</string>
+    <string name="studyHours">Study Hours</string>
+    <string name="food">Food</string>
+    <string name="ac">A/C</string>
+    <string name="Name">Name</string>
+    <string name="discount">Discount</string>
+    <string name="name">Name</string>
+    <string name="buttonTxt">Estimate Fee</string>
+    <string name="estimate">Estimated Fee</string>
+</resources>
